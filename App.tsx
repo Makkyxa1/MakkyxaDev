@@ -89,7 +89,7 @@ const App: React.FC = () => {
                   <div className="absolute inset-0 rounded-full border border-primary/30 animate-spin-slow opacity-50"></div>
                   <div className="absolute inset-2 rounded-full border border-accent/20 animate-reverse-spin opacity-50"></div>
                   <img
-                    src="https://i.ibb.co/KzBVFY6g/image.png"
+                    src="https://i.yapx.ru/cZeQV.png"
                     alt="Makkyxa Profile"
                     className="w-full h-full object-cover rounded-full grayscale group-hover:grayscale-0 transition-all duration-500 relative z-10"
                   />
